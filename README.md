@@ -9,7 +9,7 @@ Aplikasi berbasis web sederhana untuk pengelolaan data mahasiswa. Proyek ini dib
 ---
 
 ## 📸 Tampilan Aplikasi
-(https://github.com/tanzil45/crud_kampus/blob/main/Screenshot%202026-01-19%20012256.png)
+![alt text](https://github.com/tanzil45/crud_kampus/blob/main/Tampilan%20Aplikasi.png?raw=true)
 ## ✨ Fitur Utama
 * **Create:** Menambahkan data mahasiswa baru (NIM, Nama, Prodi).
 * **Read:** Menampilkan daftar mahasiswa dalam tabel yang rapi.
